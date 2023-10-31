@@ -1,0 +1,1 @@
+Open project in Visual sutdio code with google cloud VM instance. In order to run the program build using make command on linux and then do ./client to start the program with the 15 csv files in BIMDC
