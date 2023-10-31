@@ -1,16 +1,3 @@
-/*
-	Original author of the starter code
-    Tanzir Ahmed
-    Department of Computer Science & Engineering
-    Texas A&M University
-    Date: 2/8/20
-	
-	Please include your Name, UIN, and the date below
-	Name: Rohan Ali
-	UIN: 732009815
-	Date: 9/24/2023
-*/
-
 #include "common.h"
 #include "FIFORequestChannel.h"
 
